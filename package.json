@@ -16,14 +16,14 @@
   ],
   "homepage": "https://github.com/SebastianOsinski/HomebridgePluginSamsungAirConditioner",
   "engines": {
-    "node": ">=0.8",
+    "node": ">=14.17.1",
     "homebridge": ">=0.1"
   },
   "author": "Sebastian Osiński",
   "license": "MIT",
   "dependencies": {
     "carrier": "^0.3.0",
-    "net-keepalive": "^1.2.1",
+    "net-keepalive": "^2.0.5",
     "shortid": "^2.2.13"
   },
   "bin": {
